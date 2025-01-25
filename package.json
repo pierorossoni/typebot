@@ -1,5 +1,5 @@
 {
-  "name": "embedded-iframe-app",
+  "name": "full-height-iframe-app",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
